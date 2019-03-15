@@ -2,7 +2,9 @@
 // You can write your code in this editor
 hsp = 0;
 vsp = 0;
-movespeed = 5;
-jumpspeed = 7;
+movespeed = 2;
+jumpspeed = 4;
 
 state = move_state;
+
+image_speed = 0.5;
